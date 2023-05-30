@@ -88,7 +88,7 @@ function draw() {
  
  
   
- if (arrowGroup.isCollide(redB)) 
+ if (arrowGroup.collide(redB)) 
  
  {
 
